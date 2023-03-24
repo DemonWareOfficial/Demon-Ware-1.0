@@ -68,7 +68,7 @@ Enter.MouseButton1Click:Connect(function()
 	if KeyBox.Text == "HAAy25qH8os9na1hJpsdjs8Kdfj" then
 		Frame.Visible = false
 		wait(0.5)
-		loadstring(game:HttpGet("https://raw.githubusercontent.com/DemonWareOfficial/Demon-Ware-1.0/main/message%20(3).txt?token=GHSAT0AAAAAACAQVZK5RMOXLG2DABRFLHPIZA554FQ"))
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/DemonWareOfficial/Demon-Ware-1.0/main/Demon%20Main%20Script"))
 	end
 end
 )
